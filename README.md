@@ -1,4 +1,4 @@
-# Node.js Template-Based Product Server
+# Node.js Product Server API
 
 This project is a simple **Node.js** server application that dynamically serves pages using templates and JSON data. It includes an overview page, individual product pages, and an API endpoint.
 
